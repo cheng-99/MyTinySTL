@@ -1,4 +1,5 @@
-﻿#ifndef MYTINYSTL_BASIC_STRING_H_
+﻿// grep -nE ">>" basic_string.h 
+#ifndef MYTINYSTL_BASIC_STRING_H_
 #define MYTINYSTL_BASIC_STRING_H_
 
 // 这个头文件包含一个模板类 basic_string
